@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+task_a_multimodal_rag/vector_store/
+.ipynb_checkpoints/
